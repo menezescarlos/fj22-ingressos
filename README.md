@@ -11,7 +11,7 @@
   <li>Bootstrap</li>
   <li>Servlet</li>
   <li>Maven</li>
-  <li>JUtil<li>
+  <li>JUtil</li>
   <li>Hibernate</li>
   <li>Spring</li>
   <li>MySql</li>
